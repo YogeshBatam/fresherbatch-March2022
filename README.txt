@@ -1,4 +1,4 @@
-README one change for css
+README one change for css .and js
 
 This is all about the html git assignments
 
